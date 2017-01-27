@@ -4,3 +4,5 @@ C:\Users\Alexandr\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\Snake.exe
 C:\Users\Alexandr\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\Snake.pdb
 F:\C#\git\Snake\Snake\Snake\obj\x86\Debug\Snake.exe
 F:\C#\git\Snake\Snake\Snake\obj\x86\Debug\Snake.pdb
+F:\C#\git\Snake\Snake\Snake\bin\Debug\Snake.exe
+F:\C#\git\Snake\Snake\Snake\bin\Debug\Snake.pdb
